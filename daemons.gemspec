@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'daemons'
-  s.version       = '1.0'
+  s.version       = '1.1.9'
   s.date          = '2014-02-15'
   s.description   = 'To restart DJs'
   s.summary       = 'Daemon'
